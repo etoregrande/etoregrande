@@ -12,7 +12,8 @@ Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualme
 <br>
 
 ## Linguagens e ferramentas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etoregrande)](https://github.com/etoregrande/github-readme-stats)
+<i class="devicon-javascript-plain colored"></i>
+
 
 <!--
 **etoregrande/etoregrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
