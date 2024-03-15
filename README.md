@@ -3,9 +3,9 @@ Me chamo Etore e atuei como Product Designer por 5 anos. Apaixonado por criar ex
 
 Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualmente estou concentrado em aprimorar minhas habilidades em tecnologias como React, Node.js, JavaScript e TypeScript. Meu tempo é dedicado a estudos autodidatas e à aplicação prática desses conhecimentos em projetos pessoais.
 
-> 📖 Realizando a formação Full Stack da [Cubos Academy](https://cubos.academy/) /br
-> 🌱 Aprofundando meus conhecimentos em JavaScript
-> ⚡ Formado em Design pela Universidade Federal de Santa Catarina, já trabalhei 5 anos como Product Designer
+📖 Realizando a formação Full Stack da [Cubos Academy](https://cubos.academy/)
+🌱 Aprofundando meus conhecimentos em JavaScript
+⚡ Formado em Design pela Universidade Federal de Santa Catarina, já trabalhei 5 anos como Product Designer
 <!--
 **etoregrande/etoregrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
