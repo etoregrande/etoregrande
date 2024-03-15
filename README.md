@@ -12,7 +12,9 @@ Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualme
 <br>
 
 ## Linguagens e ferramentas
-<i class="devicon-javascript-plain colored"></i>
+<div style ="display: inline_block">
+  <i class="devicon-javascript-plain colored"></i>
+</div>div>
 
 
 <!--
