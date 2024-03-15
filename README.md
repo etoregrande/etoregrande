@@ -14,7 +14,7 @@ Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualme
 ## Linguagens e ferramentas
 <div style ="display: inline_block">
   <i class="devicon-javascript-plain colored"></i>
-</div>div>
+</div>
 
 
 <!--
