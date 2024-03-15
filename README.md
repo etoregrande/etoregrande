@@ -13,7 +13,7 @@ Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualme
 
 ## Linguagens e ferramentas
 <div style ="display: inline_block">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
 
