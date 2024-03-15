@@ -16,9 +16,7 @@ Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualme
 
 |**Linguagens**|**Ferramentas**|
 |:---:|:---:|
-| <div style ="display: inline_block">
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</div>| ![stats-one](https://github-readme-stats.vercel.app/api?... |
+| Text3 <br/> Text4 | ![stats-one](https://github-readme-stats.vercel.app/api?... |
 | Text3 <br/> Text4 | ![stats-two](https://github-readme-stats.vercel.app/api?... |
 
 
