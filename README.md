@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Etore Grande!👋
 
 <!--
 **etoregrande/etoregrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
