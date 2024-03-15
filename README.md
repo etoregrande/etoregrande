@@ -9,8 +9,6 @@ Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualme
 >🌱 Aprofundando meus conhecimentos em JavaScript <br>
 >⚡ Formado em Design pela Universidade Federal de Santa Catarina, já trabalhei 5 anos como Product Designer
 
-<br>
-
 ## Linguagens e ferramentas
 
 <!--
