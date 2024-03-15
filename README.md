@@ -5,10 +5,8 @@ Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualme
 
 <br>
 
->📖 Realizando a formação Full Stack da [Cubos Academy](https://cubos.academy/)
->
->🌱 Aprofundando meus conhecimentos em JavaScript
->
+>📖 Realizando a formação Full Stack da [Cubos Academy](https://cubos.academy/) <br>
+>🌱 Aprofundando meus conhecimentos em JavaScript <br>
 >⚡ Formado em Design pela Universidade Federal de Santa Catarina, já trabalhei 5 anos como Product Designer
 
 <br>
