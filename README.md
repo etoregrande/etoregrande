@@ -16,6 +16,11 @@ Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualme
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
+|**Information A**|**Information B**|
+|:---:|:---:|
+| Text1 <br/> Text2 | ![stats-one](https://github-readme-stats.vercel.app/api?... |
+| Text3 <br/> Text4 | ![stats-two](https://github-readme-stats.vercel.app/api?... |
+
 
 <!--
 **etoregrande/etoregrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
