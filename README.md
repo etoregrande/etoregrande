@@ -9,7 +9,10 @@ Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualme
 >🌱 Aprofundando meus conhecimentos em JavaScript <br>
 >⚡ Formado em Design pela Universidade Federal de Santa Catarina, já trabalhei 5 anos como Product Designer
 
+<br>
+
 ## Linguagens e ferramentas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etoregrande)](https://github.com/etoregrande/github-readme-stats)
 
 <!--
 **etoregrande/etoregrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
