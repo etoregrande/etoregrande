@@ -9,6 +9,9 @@ Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualme
 >🌱 Aprofundando meus conhecimentos em JavaScript
 >
 >⚡ Formado em Design pela Universidade Federal de Santa Catarina, já trabalhei 5 anos como Product Designer
+
+## Linguagens e ferramentas
+
 <!--
 **etoregrande/etoregrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
