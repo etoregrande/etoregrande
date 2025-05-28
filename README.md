@@ -4,7 +4,7 @@
 
 Me chamo Etore e atuei como Product Designer por 5 anos. Apaixonado por criar experiências significativas, hoje estou imerso em uma jornada para me tornar um Desenvolvedor Fullstack, combinando minha experiência em design com habilidades técnicas robustas.
 
-Atualmente estou finalizando meu primeiro projeto fullstack completamente solo (https://presenteio.app). Meu tempo é dedicado a estudos autodidatas e à aplicação prática desses conhecimentos em projetos para construir meu portfólio.
+Atualmente estou finalizando meu primeiro projeto fullstack completamente solo (https://www.presenteio.app). Meu tempo é dedicado a estudos autodidatas e à aplicação prática desses conhecimentos em projetos para construir meu portfólio.
 
 <br>
 
