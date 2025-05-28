@@ -2,15 +2,15 @@
 <a href="https://www.linkedin.com/in/etoregrande/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href = "mailto:etoregrande@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
 
-Me chamo Etore e atuei como Product Designer por 5 anos. Apaixonado por criar experiências significativas, hoje estou imerso em uma jornada para me tornar Desenvolvedor Full Stack, combinando minha experiência em design com habilidades técnicas robustas.
+Me chamo Etore e atuei como Product Designer por 5 anos. Apaixonado por criar experiências significativas, hoje estou imerso em uma jornada para me tornar um Desenvolvedor Fullstack, combinando minha experiência em design com habilidades técnicas robustas.
 
-Meu objetivo atual é solidificar minha transição para Desenvolvedor e atualmente estou concentrado em aprimorar minhas habilidades em tecnologias como React, Node.js, JavaScript e TypeScript. Meu tempo é dedicado a estudos autodidatas e à aplicação prática desses conhecimentos em projetos pessoais.
+Atualmente estou finalizando meu primeiro projeto fullstack completamente solo (https://presenteio.app). Meu tempo é dedicado a estudos autodidatas e à aplicação prática desses conhecimentos em projetos para construir meu portfólio.
 
 <br>
 
->📖 Realizando a formação Full Stack da [Cubos Academy](https://cubos.academy/) <br>
->🌱 Aprofundando meus conhecimentos em JavaScript <br>
->⚡ Formado em Design pela Universidade Federal de Santa Catarina, já trabalhei 5 anos como Product Designer
+>📖 Formação Fullstack finalizada pela [Cubos Academy](https://cubos.academy/) <br>
+>🌱 Aprofundando meus conhecimentos em React e NextJS <br>
+>⚡ Formado em Design pela Universidade Federal de Santa Catarina, já trabalhei mais de 5 anos como UX/UI e Product Designer
 
 <br>
 
